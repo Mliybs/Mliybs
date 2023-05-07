@@ -2,13 +2,9 @@ Mliybs是一个没事干（全靠兴趣）学.NET的学生 主攻C# 会一些Jav
 
 没事干做了几个开源包发布到Nuget上了 欢迎各位大佬提建议（）
 
-[MliybsToolKit](https://www.nuget.org/packages/MliybsToolKit/)
+Mliybs的C#工具包：[MliybsToolKit](https://www.nuget.org/packages/MliybsToolKit/)
 
-Mliybs的C#工具包
-
-[MliybsTieba](https://www.nuget.org/packages/MliybsTieba/)
-
-Mliybs的贴吧库
+Mliybs的贴吧库：[MliybsTieba](https://www.nuget.org/packages/MliybsTieba/)
 
 孩子不懂事 学着玩的（）
 
